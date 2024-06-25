@@ -1,9 +1,11 @@
 -- Creación de la base de datos
+use master;
+GO
+
 CREATE DATABASE Gestion_Universitaria;
 GO
 
 USE Gestion_Universitaria;
-
 GO
 
 -- Tabla Grados
